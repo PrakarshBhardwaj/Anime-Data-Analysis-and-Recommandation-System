@@ -38,6 +38,9 @@ Genre popularity by clusters:
 <img src="imgs/cluster_best.png" alt="Clusters_Genre" />  
   
 ## Recommandation System  
-The recommandation system is based on cosin_similarity between users and anime.
+The recommandation system is based on cosin_similarity between users and anime , users with other users and animes with other anime.  
+  
+### Dataset  
+Data provided by myanimelist used.  
   
 @PrakarshBhardwaj
