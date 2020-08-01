@@ -59,7 +59,7 @@ Most common ratings:
 <img src="imgs/ratings_cnt.png" alt="Most Common Rating" align="middle"/>  
 
 Variation of ratings by different genres:  
-<img src="imgs/genre_var.png" alt="Variation in ratings" width=400px/>  
+<img src="imgs/genre_var.png" alt="Variation in ratings"/>  
   
 All animes by composition:  
 <img src="imgs/comp.png" alt="Anime Composition" width=400px/>  
