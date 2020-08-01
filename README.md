@@ -56,10 +56,10 @@ Runtime: 16.73 seconds
   
 ## EDA & User Clustring
 Most common ratings:  
-<img src="imgs/ratings_cnt.png" alt="Most Common Rating" align="left"/>  
+<img src="imgs/ratings_cnt.png" alt="Most Common Rating"/>    
   
 Variation of ratings count by different genres:  
-<img src="imgs/genre_var.png" alt="Variation in ratings" align="left"/>  
+<img src="imgs/genre_var.png" alt="Variation in ratings"/>   
   
 All animes by composition:  
 <img src="imgs/comp.png" alt="Anime Composition" width=400px/>  
