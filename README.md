@@ -16,11 +16,11 @@ $python main.py <user_id> --user
 Frequency of ratings:  
 <img src="imgs/ratings_cnt.png" alt="Most Common Rating" />  
 
-Variation in ratings in different genres:  
+Variation of ratings by different genres:  
 <img src="imgs/genre_var.png" alt="Variation in ratings" />  
   
 All animes by composition:  
-<img src="imgs/comp.png" alt="Anime Composition" />  
+<img src="imgs/comp.png" alt="Anime Composition" width=400px/>  
   
 ### Dimensionality reduction  
 Reducing the dimensionality of the data using PCA for plotting. 
