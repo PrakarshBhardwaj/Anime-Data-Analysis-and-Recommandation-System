@@ -55,8 +55,8 @@ Runtime: 16.73 seconds
 ```  
   
 ## EDA & User Clustring
-Frequency of ratings:  
-<img src="imgs/ratings_cnt.png" alt="Most Common Rating" width=400px/>  
+Most common ratings:  
+<img src="imgs/ratings_cnt.png" alt="Most Common Rating" width=400px align="centre"/>  
 
 Variation of ratings by different genres:  
 <img src="imgs/genre_var.png" alt="Variation in ratings" width=400px/>  
