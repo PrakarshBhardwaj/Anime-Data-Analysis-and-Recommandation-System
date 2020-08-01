@@ -56,10 +56,10 @@ Runtime: 16.73 seconds
   
 ## EDA & User Clustring
 Most common ratings:  
-<img src="imgs/ratings_cnt.png" alt="Most Common Rating"/>    
+<img src="imgs/ratings_cnt.png" alt="Most Common Rating" width=400px/>    
   
 Variation of ratings count by different genres:  
-<img src="imgs/genre_var.png" alt="Variation in ratings"/>   
+<img src="imgs/genre_var.png" alt="Variation in ratings" width=600px/>   
   
 All animes by composition:  
 <img src="imgs/comp.png" alt="Anime Composition" width=400px/>  
@@ -77,7 +77,7 @@ Clusting similar users using K-Means to find out more about animes popular betwe
 <img src="imgs/clusters.png" alt="Clusters" width=400px/>  
   
 Genre popularity by clusters:  
-<img src="imgs/cluster_best.png" alt="Clusters_Genre" height="800" width="700"/>  
+<img src="imgs/cluster_best.png" alt="Clusters_Genre" width=800px/>  
   
 ## Recommandation System  
 The recommandation system is based on cosin_similarity between users and anime , users with other users and animes with other anime.  
