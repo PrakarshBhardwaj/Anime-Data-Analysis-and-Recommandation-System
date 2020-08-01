@@ -55,7 +55,7 @@ Runtime: 16.73 seconds
 ```  
   
 ## EDA & User Clustring
-Most common ratings: 
+###### Most common ratings:  
 <img src="imgs/ratings_cnt.png" alt="Most Common Rating" align="middle"/>  
 
 Variation of ratings by different genres:  
